@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "120424795463",
+    "project_id": "sawari-747a6",
+    "storage_bucket": "sawari-747a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120424795463:android:4038ae19a89251cd7f9062",
+        "android_client_info": {
+          "package_name": "com.deepfinder.sawari"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByyxVfmohEffFjk_3YfMvPHca3C6jhIRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
